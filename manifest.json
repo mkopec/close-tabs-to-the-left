@@ -1,7 +1,7 @@
 {
   "applications": {
     "gecko": {
-      "strict_min_version": "53"
+      "strict_min_version": "53.0"
     }
   },
   "description": "Adds a context item to the tab menu that closes all tabs to the left of the selcted one.",
