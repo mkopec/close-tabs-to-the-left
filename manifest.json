@@ -1,0 +1,20 @@
+{
+  "applications": {
+    "gecko": {
+      "strict_min_version": "53"
+    }
+  },
+  "description": "Adds a context item to the tab menu that closes all tabs to the left of the selcted one.",
+  "homepage_url": "https://github.com/mkopec/close-tabs-to-the-left",
+  "manifest_version": 2,
+  "name": "Close Tabs to the Left",
+  "version": "1.0",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "contextMenus"
+  ]
+}
