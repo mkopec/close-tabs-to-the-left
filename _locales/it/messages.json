@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Chiudi le schede a sinistra",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds a context item to the tab menu that closes all tabs to the left of the selcted one.",
+    "description": "Description of the extension."
+  },
+
+  "contextItemTitle": {
+      "message": "Chiudi le schede a sinistra",
+      "description": "Tittle of the context menu item."
+  }
+}
