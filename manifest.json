@@ -4,10 +4,11 @@
       "strict_min_version": "53.0"
     }
   },
-  "description": "Adds a context item to the tab menu that closes all tabs to the left of the selcted one.",
+
+  "description": "__MSG_extensionDescription__",
   "homepage_url": "https://github.com/mkopec/close-tabs-to-the-left",
   "manifest_version": 2,
-  "name": "Close Tabs to the Left",
+  "name": "__MSG_extensionName__",
   "version": "1.1",
 
   "background": {
@@ -16,5 +17,7 @@
 
   "permissions": [
     "contextMenus"
-  ]
+  ],
+
+  "default_locale": "en"
 }

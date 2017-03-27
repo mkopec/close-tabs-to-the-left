@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Close Tabs to the Left",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds a context item to the tab menu that closes all tabs to the left of the selcted one.",
+    "description": "Description of the extension."
+  },
+
+  "contextItemTitle": {
+      "message": "Close Tabs to the Left",
+      "description": "Tittle of the context menu item."
+  }
+}

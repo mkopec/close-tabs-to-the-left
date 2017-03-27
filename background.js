@@ -8,7 +8,7 @@ function onCreated(n) {
 
 browser.contextMenus.create({
   id: "close_left",
-  title: "Close Tabs to the Left",
+  title: browser.i18n.getMessage("contextItemTitle"),
   contexts: ["tab"]
 }, onCreated);
 
