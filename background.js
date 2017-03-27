@@ -13,8 +13,6 @@ browser.contextMenus.create({
 }, onCreated);
 
 function closeTabs(sender, tabs) {
-    console.log(sender);
-
     for (var tab of tabs) {
         if (tab.id == sender.id) {
             break;
