@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "關閉左側標籤頁",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "在上下文菜單里插入關閉左側標籤頁的項目。",
+    "description": "Description of the extension."
+  },
+
+  "contextItemTitle": {
+      "message": "關閉左側標籤頁",
+      "description": "Tittle of the context menu item."
+  }
+}
