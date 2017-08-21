@@ -5,7 +5,7 @@
   },
 
   "extensionDescription": {
-    "message": "在标签上下文菜单里插入关闭的左侧标签页的项目。",
+    "message": "在标签页上下文菜单里加入关闭左侧标签页的菜单。",
     "description": "Description of the extension."
   },
 
