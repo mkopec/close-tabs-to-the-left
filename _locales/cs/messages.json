@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Zavřít panely vlevo",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Přidá do kontextového menu možnost zavřít panely vlevo od vybraného panelu.",
+    "description": "Description of the extension."
+  },
+
+  "contextItemTitle": {
+      "message": "Zavřít panely vlevo",
+      "description": "Title of the context menu item."
+  }
+}
