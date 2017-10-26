@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Linke Tabs schließen",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Add a context menu to tabs menus that closes all tabs to the left of the selected tab.",
+    "description": "Description of the extension."
+  },
+
+  "contextItemTitle": {
+      "message": "Linke Tabs schließen",
+      "description": "Title of the context menu item."
+  }
+}

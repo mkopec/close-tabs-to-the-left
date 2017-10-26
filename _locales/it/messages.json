@@ -1,16 +1,16 @@
 {
   "extensionName": {
     "message": "Chiudi le schede a sinistra",
-    "description": "Name of the extension."
+    "description": "Nome dell'estensione."
   },
 
   "extensionDescription": {
     "message": "Adds a context item to the tab menu that closes all tabs to the left of the selcted one.",
-    "description": "Description of the extension."
+    "description": "Descrizione dell'estensione"
   },
 
   "contextItemTitle": {
       "message": "Chiudi le schede a sinistra",
-      "description": "Tittle of the context menu item."
+      "description": "Titolo dell'elemento nel menu contestuale."
   }
 }
