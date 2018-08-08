@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Закрыть вкладки спева",
+    "message": "Закрыть вкладки слева",
     "description": "Name of the extension."
   },
 
@@ -10,7 +10,7 @@
   },
 
   "contextItemTitle": {
-      "message": "Закрыть вкладки спева",
+      "message": "Закрыть вкладки слева",
       "description": "Title of the context menu item."
   }
 }
