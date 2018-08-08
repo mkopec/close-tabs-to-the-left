@@ -9,7 +9,7 @@
   "homepage_url": "https://github.com/mkopec/close-tabs-to-the-left",
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
-  "version": "1.4",
+  "version": "1.4.1",
 
   "background": {
     "scripts": ["background.js"]
